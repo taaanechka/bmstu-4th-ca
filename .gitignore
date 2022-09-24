@@ -1,3 +1,6 @@
+# data for tests
+*.txt
+
 #reports
 *.odt
 *.docx
