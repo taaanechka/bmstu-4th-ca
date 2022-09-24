@@ -1,3 +1,7 @@
+#reports
+*.odt
+*.docx
+
 # Prerequisites
 *.d
 
